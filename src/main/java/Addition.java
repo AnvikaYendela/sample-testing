@@ -10,7 +10,7 @@ public class Addition {
     {
     Addition a=new Addition();
 
-    a.add(20,20);
+    a.add(100,100);
 
     }
 }
