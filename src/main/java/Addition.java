@@ -9,6 +9,6 @@ public class Addition {
     public static void main(String args[])
     {
     Addition a=new Addition();
-    a.add(2,1);
+    a.add(0,0);
     }
 }
