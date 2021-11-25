@@ -10,9 +10,9 @@ public class Addition {
     {
     Addition a=new Addition();
 <<<<<<< HEAD
-a.add(65,90);
+    a.add(4,4);
 =======
-    a.add(9,9);
+    a.add(9,11);
 >>>>>>> ap-wip-project
     }
 }
